@@ -16,9 +16,9 @@
 		"./tokenVorpalAttack.js"
 	],
 	"socket": true,
-  	"url": "https://github.com/reductist/VTT_macros/tree/master",
-  	"manifest": "https://raw.githubusercontent.com/reductist/VTT_macros/master/module.json",
-    "download": "https://github.com/reductist/VTT_macros/archive/master.zip",
+  	"url": "https://github.com/reductist/VTT_macros/tree/fix_module.json2",
+  	"manifest": "https://raw.githubusercontent.com/reductist/VTT_macros/fix_module.json2/module.json",
+    "download": "https://github.com/reductist/VTT_macros/archive/fix_module.json2.zip",
 	"minimumCoreVersion": "0.5.5",
 	"compatibleCoreVersion": "0.6.0"
 }
